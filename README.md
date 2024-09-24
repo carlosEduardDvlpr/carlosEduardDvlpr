@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosEduardDev&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosEduardDvlpr&show_icons=true&theme=synthwave)
 <br>
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardDev&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardDvlpr&layout=compact&theme=dracula)
 <h3> Eai, vamos trabalhar juntos? </h3>
 
 <p> 
